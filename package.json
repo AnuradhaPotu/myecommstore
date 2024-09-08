@@ -2,7 +2,7 @@
   "name": "my-design-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anuradhapotu.github.io/myecommstore/",
+  "homepage": "https://anuradhapotu.github.io/myecommstore",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",

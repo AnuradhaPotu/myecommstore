@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+Simple ecommerce store with the ability to browse products, view product detail, add the product to cart, view the cart, add/delete cart items.
+Added the ability to view the pages in light/dark mode
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
